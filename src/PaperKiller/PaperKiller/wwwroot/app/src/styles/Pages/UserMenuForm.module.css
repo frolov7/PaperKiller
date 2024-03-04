@@ -1,0 +1,73 @@
+.main {
+  height:  100%;
+  display: grid;
+  justify-content: center;
+  align-content: start; /* Поднимает содержимое вверх */
+  padding: 30px;
+  margin-bottom: 2rem;
+  position: relative;
+}
+
+body,
+html {
+  height: 100%;
+  margin: 0;
+  display: grid;
+  justify-content: center;
+  /* Центрирование по горизонтали */
+  align-content: center;
+  /* Центрирование по вертикали */
+}
+
+.tableAndButtonContainer {
+  display: flex;
+  flex-direction: column;
+  /* Выравнивание элементов в колонку */
+  align-items: center;
+  /* Центрирование элементов по горизонтали */
+  gap: 20px;
+  /* Расстояние между элементами */
+  margin-right: 4rem;
+  grid-column: 1;
+  /* Указывает, что таблица должна быть в первой колонке */
+}
+
+.title {
+  grid-column: 1;
+  grid-row: 1;
+}
+
+.titlepage {
+  margin-right: 0;
+  grid-column: 2;
+  grid-row: 1;
+  /* Выравнивание элемента к правому краю ячейки */
+}
+
+.exit {
+  position: fixed;
+  /* Позиционирование относительно окна браузера */
+  bottom: 10px;
+  /* Отступ от нижнего края */
+  left: 50%;
+  /* Центрирование по горизонтали */
+  transform: translateX(-50%);
+  /* Корректировка позиции */
+}
+
+.gridcontainer {
+  display: flex;
+  justify-content: start;
+  margin-top: 6rem;
+  row-gap: 40px;
+  gap: 50px;
+}
+
+.buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+  /* Центрирование кнопок по горизонтали */
+}
+

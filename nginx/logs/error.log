@@ -1,0 +1,277 @@
+2024/02/06 18:31:42 [notice] 35900#33480: signal process started
+2024/02/06 18:33:01 [notice] 16940#37988: signal process started
+2024/02/06 18:42:50 [notice] 33480#37596: signal process started
+2024/02/07 17:39:27 [emerg] 42772#42684: host not found in upstream "backend" in C:\Users\gimna\Desktop\BMSTU\WEB\bmstu-web\nginx/conf/nginx.conf:21
+2024/02/07 17:39:51 [notice] 3164#42340: signal process started
+2024/02/07 17:39:51 [error] 3164#42340: OpenEvent("Global\ngx_stop_8568") failed (2: The system cannot find the file specified)
+2024/02/07 17:40:03 [error] 39244#42924: *2 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /admin HTTP/1.1", upstream: "http://[::1]:5050/admin", host: "localhost:8080"
+2024/02/07 17:40:05 [error] 39244#42924: *2 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /admin HTTP/1.1", upstream: "http://127.0.0.1:5050/admin", host: "localhost:8080"
+2024/02/07 17:42:04 [notice] 24208#14856: signal process started
+2024/02/07 17:42:25 [notice] 38700#41228: signal process started
+2024/02/07 17:43:36 [notice] 42096#1388: signal process started
+2024/02/07 17:43:59 [notice] 31876#28988: signal process started
+2024/02/07 17:44:25 [notice] 33636#15348: signal process started
+2024/02/07 17:44:51 [error] 36216#42024: *1 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /admin HTTP/1.1", upstream: "http://[::1]:5050/admin", host: "localhost:8080"
+2024/02/07 17:44:53 [error] 36216#42024: *1 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /admin HTTP/1.1", upstream: "http://127.0.0.1:5050/admin", host: "localhost:8080"
+2024/02/07 17:45:49 [notice] 30372#41772: signal process started
+2024/02/07 17:46:12 [notice] 12396#30372: signal process started
+2024/02/07 17:46:41 [notice] 17112#42368: signal process started
+2024/02/07 17:47:37 [notice] 43412#43556: signal process started
+2024/02/07 17:48:33 [notice] 19136#32140: signal process started
+2024/02/07 17:49:02 [notice] 37556#24344: signal process started
+2024/02/07 17:52:21 [notice] 43736#42280: signal process started
+2024/02/07 17:55:06 [notice] 18948#38160: signal process started
+2024/02/07 17:55:44 [notice] 43424#33412: signal process started
+2024/02/07 17:59:36 [emerg] 24504#41388: unknown "api_uri" variable
+2024/02/07 18:00:13 [notice] 41916#36096: signal process started
+2024/02/07 18:12:00 [notice] 18348#22840: signal process started
+2024/02/07 18:14:38 [notice] 45984#44776: signal process started
+2024/02/07 18:20:13 [notice] 44984#38024: signal process started
+2024/02/07 18:33:29 [notice] 11932#26748: signal process started
+2024/02/07 18:35:28 [notice] 6156#27884: signal process started
+2024/02/07 19:53:39 [emerg] 26688#10392: invalid port in upstream "http://localhost:8081/" in C:\Users\gimna\Desktop\BMSTU\WEB\bmstu-web\nginx/conf/nginx.conf:65
+2024/02/07 19:53:57 [emerg] 28860#31108: host not found in upstream "backend" in C:\Users\gimna\Desktop\BMSTU\WEB\bmstu-web\nginx/conf/nginx.conf:26
+2024/02/07 19:54:22 [notice] 19328#9640: signal process started
+2024/02/07 19:55:31 [notice] 30644#30352: signal process started
+2024/02/07 19:56:46 [notice] 23788#4460: signal process started
+2024/02/07 19:56:54 [error] 29316#1280: *1 SSL_do_handshake() failed (SSL: error:0A00010B:SSL routines::wrong version number) while SSL handshaking to upstream, client: 127.0.0.1, server: localhost, request: "GET /admin/ HTTP/1.1", upstream: "https://[::1]:8081/phpMyAdmin/", host: "localhost:8080"
+2024/02/07 19:56:55 [error] 29316#1280: *1 SSL_do_handshake() failed (SSL: error:0A00010B:SSL routines::wrong version number) while SSL handshaking to upstream, client: 127.0.0.1, server: localhost, request: "GET /admin/ HTTP/1.1", upstream: "https://127.0.0.1:8081/phpMyAdmin/", host: "localhost:8080"
+2024/02/07 19:56:55 [error] 29316#1280: *1 no live upstreams while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /admin/ HTTP/1.1", upstream: "https://localhost/phpMyAdmin/", host: "localhost:8080"
+2024/02/07 19:56:57 [error] 29316#1280: *1 no live upstreams while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /admin/ HTTP/1.1", upstream: "https://localhost/phpMyAdmin/", host: "localhost:8080"
+2024/02/07 19:56:57 [error] 29316#1280: *1 no live upstreams while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /admin/ HTTP/1.1", upstream: "https://localhost/phpMyAdmin/", host: "localhost:8080"
+2024/02/07 19:57:29 [notice] 2316#30712: signal process started
+2024/02/07 19:59:38 [notice] 8680#16016: signal process started
+2024/02/07 20:02:54 [notice] 19484#28120: signal process started
+2024/02/07 20:03:03 [error] 31688#30160: *1 SSL_do_handshake() failed (SSL: error:0A00010B:SSL routines::wrong version number) while SSL handshaking to upstream, client: 127.0.0.1, server: localhost, request: "GET /admin/ HTTP/1.1", upstream: "https://[::1]:8081/phpMyAdmin/", host: "localhost:8080"
+2024/02/07 20:03:03 [error] 31688#30160: *1 SSL_do_handshake() failed (SSL: error:0A00010B:SSL routines::wrong version number) while SSL handshaking to upstream, client: 127.0.0.1, server: localhost, request: "GET /admin/ HTTP/1.1", upstream: "https://127.0.0.1:8081/phpMyAdmin/", host: "localhost:8080"
+2024/02/07 20:03:03 [error] 31688#30160: *1 no live upstreams while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /admin/ HTTP/1.1", upstream: "https://localhost/phpMyAdmin/", host: "localhost:8080"
+2024/02/07 20:05:17 [error] 31688#30160: *5 SSL_do_handshake() failed (SSL: error:0A00010B:SSL routines::wrong version number) while SSL handshaking to upstream, client: 127.0.0.1, server: localhost, request: "GET /admin/ HTTP/1.1", upstream: "https://127.0.0.1:8081/phpMyAdmin/", host: "localhost:8080"
+2024/02/07 20:05:17 [error] 31688#30160: *5 SSL_do_handshake() failed (SSL: error:0A00010B:SSL routines::wrong version number) while SSL handshaking to upstream, client: 127.0.0.1, server: localhost, request: "GET /admin/ HTTP/1.1", upstream: "https://[::1]:8081/phpMyAdmin/", host: "localhost:8080"
+2024/02/07 20:05:17 [error] 31688#30160: *5 no live upstreams while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /admin/ HTTP/1.1", upstream: "https://localhost/phpMyAdmin/", host: "localhost:8080"
+2024/02/07 20:05:21 [notice] 26292#11680: signal process started
+2024/02/07 20:17:38 [emerg] 15760#29136: host not found in upstream "pgadmin" in C:\Users\gimna\Desktop\BMSTU\WEB\bmstu-web\nginx/conf/nginx.conf:68
+2024/02/07 20:17:51 [notice] 31752#5296: signal process started
+2024/02/07 20:18:11 [notice] 25324#15240: signal process started
+2024/02/07 20:18:41 [notice] 2752#32000: signal process started
+2024/02/07 20:22:58 [notice] 18680#29820: signal process started
+2024/02/07 20:25:46 [notice] 9820#15344: signal process started
+2024/02/07 20:27:08 [notice] 13416#28740: signal process started
+2024/02/07 20:35:12 [notice] 32000#24156: signal process started
+2024/02/07 20:36:27 [notice] 31836#10928: signal process started
+2024/02/15 22:25:36 [notice] 6940#11160: signal process started
+2024/02/15 22:26:44 [notice] 2576#8232: signal process started
+2024/02/15 23:22:11 [notice] 828#24300: signal process started
+2024/02/15 23:41:16 [notice] 10344#4816: signal process started
+2024/02/15 23:41:19 [error] 36924#33780: *1 rewrite or internal redirection cycle while internally redirecting to "/README.html", client: 127.0.0.1, server: localhost, request: "GET /readme HTTP/1.1", host: "localhost:8080"
+2024/02/15 23:41:20 [error] 36924#33780: *2 rewrite or internal redirection cycle while internally redirecting to "/README.html", client: 127.0.0.1, server: localhost, request: "GET /readme HTTP/1.1", host: "localhost:8080"
+2024/02/15 23:43:49 [notice] 34980#38976: signal process started
+2024/02/15 23:43:53 [error] 20740#27864: *1 rewrite or internal redirection cycle while internally redirecting to "/README.html", client: 127.0.0.1, server: localhost, request: "GET /readme HTTP/1.1", host: "localhost:8080"
+2024/02/15 23:43:54 [error] 20740#27864: *2 rewrite or internal redirection cycle while internally redirecting to "/README.html", client: 127.0.0.1, server: localhost, request: "GET /readme HTTP/1.1", host: "localhost:8080"
+2024/02/15 23:43:54 [error] 20740#27864: *3 rewrite or internal redirection cycle while internally redirecting to "/README.html", client: 127.0.0.1, server: localhost, request: "GET /readme HTTP/1.1", host: "localhost:8080"
+2024/02/15 23:44:12 [notice] 35012#10952: signal process started
+2024/02/15 23:44:20 [error] 25324#34256: *1 CreateFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/staticroot/docs/img/README.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /readme HTTP/1.1", host: "localhost:8080"
+2024/02/15 23:45:23 [notice] 11168#10544: signal process started
+2024/02/15 23:45:30 [error] 33464#36812: *1 rewrite or internal redirection cycle while internally redirecting to "/README.html", client: 127.0.0.1, server: localhost, request: "GET /readme/docs/img/UseCase.jpg HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/readme/"
+2024/02/15 23:45:30 [error] 33464#36812: *2 rewrite or internal redirection cycle while internally redirecting to "/README.html", client: 127.0.0.1, server: localhost, request: "GET /readme/docs/img/bpmn.jpg HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/readme/"
+2024/02/15 23:45:31 [error] 33464#36812: *3 rewrite or internal redirection cycle while internally redirecting to "/README.html", client: 127.0.0.1, server: localhost, request: "GET /readme/docs/img/prototype.jpg HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/readme/"
+2024/02/15 23:45:31 [error] 33464#36812: *4 rewrite or internal redirection cycle while internally redirecting to "/README.html", client: 127.0.0.1, server: localhost, request: "GET /readme/docs/img/views.jpg HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/readme/"
+2024/02/16 00:48:10 [emerg] 40308#22460: host not found in upstream "backend1:5191" in C:\Users\gimna\Desktop\BMSTU\WEB\bmstu-web\nginx/conf/nginx.conf:8
+2024/02/16 00:50:21 [emerg] 41080#33384: host not found in upstream "backend1:5191" in C:\Users\gimna\Desktop\BMSTU\WEB\bmstu-web\nginx/conf/nginx.conf:8
+2024/02/16 00:50:44 [emerg] 36712#21036: host not found in upstream "backend1:5191" in C:\Users\gimna\Desktop\BMSTU\WEB\bmstu-web\nginx/conf/nginx.conf:8
+2024/02/16 00:53:20 [emerg] 10292#34972: host not found in upstream "backend1:5191" in C:\Users\gimna\Desktop\BMSTU\WEB\bmstu-web\nginx/conf/nginx.conf:8
+2024/02/16 00:55:41 [emerg] 28084#10540: invalid parameter ":5191" in C:\Users\gimna\Desktop\BMSTU\WEB\bmstu-web\nginx/conf/nginx.conf:8
+2024/02/16 01:00:16 [notice] 32248#40296: signal process started
+2024/02/16 01:04:31 [notice] 39184#27280: signal process started
+2024/02/16 01:05:22 [notice] 36832#32988: signal process started
+2024/02/16 01:22:22 [notice] 35860#29112: signal process started
+2024/02/16 01:27:13 [notice] 6940#13556: signal process started
+2024/02/16 01:32:06 [notice] 34656#27504: signal process started
+2024/02/16 01:35:13 [emerg] 6756#31300: "proxy_pass" cannot have URI part in location given by regular expression, or inside named location, or inside "if" statement, or inside "limit_except" block in C:\Users\gimna\Desktop\BMSTU\WEB\bmstu-web\nginx/conf/nginx.conf:31
+2024/02/16 18:46:00 [notice] 37504#41144: signal process started
+2024/02/16 19:08:18 [notice] 45272#46848: signal process started
+2024/02/16 21:23:09 [notice] 48596#18028: signal process started
+2024/02/16 22:00:55 [notice] 48448#48240: signal process started
+2024/02/16 22:01:17 [error] 48832#28552: *1 SSL_do_handshake() failed (SSL: error:0A00010B:SSL routines::wrong version number) while SSL handshaking to upstream, client: 127.0.0.1, server: localhost, request: "GET /mirror1/api/v1/students HTTP/1.1", upstream: "https://[::1]:5080/api/v1/students", host: "localhost:8080"
+2024/02/16 22:01:17 [error] 48832#28552: *1 SSL_do_handshake() failed (SSL: error:0A00010B:SSL routines::wrong version number) while SSL handshaking to upstream, client: 127.0.0.1, server: localhost, request: "GET /mirror1/api/v1/students HTTP/1.1", upstream: "https://127.0.0.1:5080/api/v1/students", host: "localhost:8080"
+2024/02/16 22:01:57 [error] 48832#28552: *2 SSL_do_handshake() failed (SSL: error:0A00010B:SSL routines::wrong version number) while SSL handshaking to upstream, client: 127.0.0.1, server: localhost, request: "GET /mirror1/api/v1/ HTTP/1.1", upstream: "https://127.0.0.1:5080/api/v1/", host: "localhost:8080"
+2024/02/16 22:01:57 [error] 48832#28552: *2 SSL_do_handshake() failed (SSL: error:0A00010B:SSL routines::wrong version number) while SSL handshaking to upstream, client: 127.0.0.1, server: localhost, request: "GET /mirror1/api/v1/ HTTP/1.1", upstream: "https://[::1]:5080/api/v1/", host: "localhost:8080"
+2024/02/16 22:02:09 [error] 48832#28552: *2 SSL_do_handshake() failed (SSL: error:0A00010B:SSL routines::wrong version number) while SSL handshaking to upstream, client: 127.0.0.1, server: localhost, request: "GET /mirror1/api/v1/ HTTP/1.1", upstream: "https://127.0.0.1:5080/api/v1/", host: "localhost:8080"
+2024/02/16 22:02:09 [error] 48832#28552: *2 SSL_do_handshake() failed (SSL: error:0A00010B:SSL routines::wrong version number) while SSL handshaking to upstream, client: 127.0.0.1, server: localhost, request: "GET /mirror1/api/v1/ HTTP/1.1", upstream: "https://[::1]:5080/api/v1/", host: "localhost:8080"
+2024/02/16 22:02:13 [error] 48832#28552: *2 no live upstreams while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /mirror1/api/v1/students HTTP/1.1", upstream: "https://mirror_backend/api/v1/students", host: "localhost:8080"
+2024/02/16 22:04:43 [notice] 31592#49132: signal process started
+2024/02/16 23:20:40 [notice] 46440#47756: signal process started
+2024/02/16 23:26:43 [notice] 6788#25348: signal process started
+2024/02/16 23:36:05 [emerg] 49756#32072: "proxy_cache" zone "all" is unknown in C:\Users\gimna\Desktop\BMSTU\WEB\bmstu-web\nginx/conf/nginx.conf:150
+2024/02/16 23:37:18 [notice] 50644#50648: signal process started
+2024/02/16 23:42:56 [notice] 40716#39868: signal process started
+2024/02/16 23:46:59 [notice] 48292#47524: signal process started
+2024/02/16 23:47:31 [notice] 48300#15576: signal process started
+2024/02/16 23:49:51 [notice] 48748#39916: signal process started
+2024/02/16 23:50:35 [notice] 28552#47684: signal process started
+2024/02/16 23:52:11 [notice] 37856#9548: signal process started
+2024/02/16 23:56:19 [notice] 41284#47972: signal process started
+2024/02/16 23:58:06 [emerg] 46312#49628: "proxy_cache" directive is not allowed here in C:\Users\gimna\Desktop\BMSTU\WEB\bmstu-web\nginx/conf/nginx.conf:132
+2024/02/16 23:58:37 [emerg] 49944#10708: "proxy_cache_valid" directive is not allowed here in C:\Users\gimna\Desktop\BMSTU\WEB\bmstu-web\nginx/conf/nginx.conf:132
+2024/02/16 23:59:20 [emerg] 50828#34836: "proxy_cache_valid" directive is not allowed here in C:\Users\gimna\Desktop\BMSTU\WEB\bmstu-web\nginx/conf/nginx.conf:132
+2024/02/28 17:20:19 [notice] 29632#24716: signal process started
+2024/02/28 17:34:14 [error] 2212#30560: *133 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: paperkiller, request: "GET /api/v1/swagger HTTP/1.1", upstream: "http://[::1]:5191/api/v1/swagger", host: "localhost:8080"
+2024/02/28 17:34:16 [error] 2212#30560: *133 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: paperkiller, request: "GET /api/v1/swagger HTTP/1.1", upstream: "http://127.0.0.1:5191/api/v1/swagger", host: "localhost:8080"
+2024/02/28 17:34:18 [error] 2212#30560: *133 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: paperkiller, request: "GET /api/v1/swagger HTTP/1.1", upstream: "http://[::1]:5000/api/v1/swagger", host: "localhost:8080"
+2024/02/28 17:34:20 [error] 2212#30560: *133 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: paperkiller, request: "GET /api/v1/swagger HTTP/1.1", upstream: "http://127.0.0.1:5000/api/v1/swagger", host: "localhost:8080"
+2024/02/28 17:34:22 [error] 2212#30560: *133 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: paperkiller, request: "GET /api/v1/swagger HTTP/1.1", upstream: "http://[::1]:5001/api/v1/swagger", host: "localhost:8080"
+2024/02/28 17:34:24 [error] 2212#30560: *133 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: paperkiller, request: "GET /api/v1/swagger HTTP/1.1", upstream: "http://127.0.0.1:5001/api/v1/swagger", host: "localhost:8080"
+2024/02/28 17:34:40 [error] 2212#30560: *133 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: paperkiller, request: "GET /api/v1/swagger HTTP/1.1", upstream: "http://127.0.0.1:5001/api/v1/swagger", host: "localhost:8080"
+2024/02/28 17:34:42 [error] 2212#30560: *133 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: paperkiller, request: "GET /api/v1/swagger HTTP/1.1", upstream: "http://[::1]:5001/api/v1/swagger", host: "localhost:8080"
+2024/02/28 17:34:44 [error] 2212#30560: *133 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: paperkiller, request: "GET /api/v1/swagger HTTP/1.1", upstream: "http://127.0.0.1:5000/api/v1/swagger", host: "localhost:8080"
+2024/02/28 17:34:46 [error] 2212#30560: *133 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: paperkiller, request: "GET /api/v1/swagger HTTP/1.1", upstream: "http://127.0.0.1:5191/api/v1/swagger", host: "localhost:8080"
+2024/02/28 17:34:48 [error] 2212#30560: *133 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: paperkiller, request: "GET /api/v1/swagger HTTP/1.1", upstream: "http://[::1]:5000/api/v1/swagger", host: "localhost:8080"
+2024/02/28 17:34:50 [error] 2212#30560: *133 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: paperkiller, request: "GET /api/v1/swagger HTTP/1.1", upstream: "http://[::1]:5191/api/v1/swagger", host: "localhost:8080"
+2024/02/28 17:35:02 [error] 2212#30560: *133 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: paperkiller, request: "GET /api/v1/swagger HTTP/1.1", upstream: "http://127.0.0.1:5001/api/v1/swagger", host: "localhost:8080"
+2024/02/28 17:35:58 [notice] 11524#29284: signal process started
+2024/02/28 17:36:05 [error] 2212#30560: *133 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: paperkiller, request: "GET /api/v1/swagger HTTP/1.1", upstream: "http://127.0.0.1:5001/api/v1/swagger", host: "localhost:8080"
+2024/02/28 17:36:09 [error] 2212#30560: *133 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: paperkiller, request: "GET /api/v1/swagger HTTP/1.1", upstream: "http://[::1]:5000/api/v1/swagger", host: "localhost:8080"
+2024/02/28 17:36:24 [error] 2212#30560: *133 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: paperkiller, request: "GET /api/v1/swagger HTTP/1.1", upstream: "http://[::1]:5001/api/v1/swagger", host: "localhost:8080"
+2024/02/28 17:36:45 [error] 2212#30560: *133 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: paperkiller, request: "GET /api/v1/swagger/v1/swagger.json HTTP/1.1", upstream: "http://127.0.0.1:5000/api/v1/swagger/v1/swagger.json", host: "localhost:8080"
+2024/02/28 17:36:53 [error] 2212#30560: *133 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: paperkiller, request: "GET /api/v1/swagger HTTP/1.1", upstream: "http://127.0.0.1:5001/api/v1/swagger", host: "localhost:8080"
+2024/02/28 17:36:55 [error] 2212#30560: *133 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: paperkiller, request: "GET /api/v1/swagger HTTP/1.1", upstream: "http://[::1]:5000/api/v1/swagger", host: "localhost:8080"
+2024/02/28 17:36:57 [error] 2212#30560: *133 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: paperkiller, request: "GET /api/v1/swagger HTTP/1.1", upstream: "http://[::1]:5001/api/v1/swagger", host: "localhost:8080"
+2024/02/28 17:37:18 [error] 2212#30560: *133 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: paperkiller, request: "GET /mirror1/api/v1/swagger HTTP/1.1", upstream: "http://[::1]:5080/swagger", host: "localhost:8080"
+2024/02/28 17:37:20 [error] 2212#30560: *133 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: paperkiller, request: "GET /mirror1/api/v1/swagger HTTP/1.1", upstream: "http://127.0.0.1:5080/swagger", host: "localhost:8080"
+2024/02/28 17:37:41 [error] 2212#30560: *133 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: paperkiller, request: "GET /mirror1/api/v1/swagger/index.html HTTP/1.1", upstream: "http://127.0.0.1:5080/swagger/index.html", host: "localhost:8080"
+2024/02/28 17:37:43 [error] 2212#30560: *133 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: paperkiller, request: "GET /mirror1/api/v1/swagger/index.html HTTP/1.1", upstream: "http://[::1]:5080/swagger/index.html", host: "localhost:8080"
+2024/02/28 17:40:38 [notice] 31768#32004: signal process started
+2024/02/28 17:41:37 [notice] 30884#28036: signal process started
+2024/02/28 17:41:45 [error] 2212#30560: *175 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: paperkiller, request: "GET /api/v1/swagger HTTP/1.1", upstream: "http://[::1]:5001/api/v1/swagger", host: "localhost:8080"
+2024/02/28 17:41:45 [error] 2212#30560: *176 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: paperkiller, request: "GET /api/v1/swagger HTTP/1.1", upstream: "http://127.0.0.1:5000/api/v1/swagger", host: "localhost:8080"
+2024/02/28 17:41:45 [error] 2212#30560: *178 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: paperkiller, request: "GET /api/v1/swagger HTTP/1.1", upstream: "http://[::1]:5000/api/v1/swagger", host: "localhost:8080"
+2024/02/28 17:42:03 [notice] 30532#28172: signal process started
+2024/02/28 17:42:11 [error] 2212#30560: *178 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: paperkiller, request: "GET /api/v1/swagger HTTP/1.1", upstream: "http://127.0.0.1:5001/api/v1/swagger", host: "localhost:8080"
+2024/02/28 17:42:21 [error] 2212#30560: *186 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: paperkiller, request: "GET /api/v1/swagger HTTP/1.1", upstream: "http://[::1]:5000/api/v1/swagger", host: "localhost:8080"
+2024/02/28 17:42:23 [error] 2212#30560: *186 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: paperkiller, request: "GET /api/v1/swagger HTTP/1.1", upstream: "http://127.0.0.1:5000/api/v1/swagger", host: "localhost:8080"
+2024/02/28 17:42:30 [error] 2212#30560: *186 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: paperkiller, request: "GET /api/v1/swagger/ HTTP/1.1", upstream: "http://[::1]:5001/api/v1/swagger/", host: "localhost:8080"
+2024/02/28 17:42:32 [error] 2212#30560: *186 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: paperkiller, request: "GET /api/v1/swagger/ HTTP/1.1", upstream: "http://127.0.0.1:5001/api/v1/swagger/", host: "localhost:8080"
+2024/02/28 17:42:59 [notice] 32020#29416: signal process started
+2024/02/28 17:43:18 [notice] 31188#32388: signal process started
+2024/02/28 17:43:53 [notice] 13764#22608: signal process started
+2024/02/28 17:45:02 [notice] 30208#32456: signal process started
+2024/02/28 17:46:15 [notice] 11200#23788: signal process started
+2024/02/28 17:46:49 [notice] 33708#33712: signal process started
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/0/1d/3ea892ed90bd368ffb0ec33187aa21d0" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/0/45/8d7fd2020489a0f6fc3623c0206fd450" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/0/57/637997d55dc4956f26e18a925d482570" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/0/79/820c4d0158e8169c6195227ada7f0790" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/0/90/8e7d84f26945b09c5c6296149a664900" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/0/d3/93804e789414646cc1b5f485bb12ad30" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/0/e7/5cdb8d972e8bb2d20fbce8eb7cc90e70" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/1/15/f80aedb98574f01c23c9cd6e4ae95151" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/1/33/4e73714c9f99a4f4405affcf76eec331" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/1/a8/cdee3f13267de6bffbe8d21141aa7a81" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/1/c1/dc676e2b6054bd593d015acbcd79bc11" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/1/c8/ff21c1b0cd9b75fcc1662612738c9c81" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/1/d4/a9a6d715976e3beeecd7e550069cad41" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/1/e5/297c2ad226b01c7790478be08ab55e51" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/2/17/629df80768d5d8dc1a57529c9bf9c172" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/2/5c/6baff696622d358cc85bafc49f0885c2" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/2/62/6acbf0a4fd54c27ab2f9863dd7e90622" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/2/99/a749174a91fcaed92a3b5b6bb8fcd992" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/2/cb/68429a0b83c2ce931081df5b51668cb2" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/2/cc/65f4fbcf01f1b25f163e460ae3331cc2" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/2/fe/15fa5459ee0287eb457b0cfd276c4fe2" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/3/0c/5e749b5977ce850ae44447e4dfee80c3" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/3/18/9d23ab29b0ad5a8f68736495380fb183" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/3/3a/ba1a009a25766b0ce9465648a81fc3a3" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/3/73/708fa2b2ee745954b44036fa7a596733" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/3/ad/d8ae7df7419fbd12bd574ee91ec9fad3" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/3/da/6ef3a4256d0d08239666cfd162d56da3" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/4/26/175180c0a047ec1c1c074d15d84b5264" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/4/5d/a34e2538ddc273c59897db57691365d4" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/4/a1/1e487fb292ede172f8f580d296242a14" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/4/a6/10f7d2165c08b9e38a59cbfc9d091a64" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/5/25/7b93b898355c681c05ccf6c7b4579255" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/5/4c/4f933a59cbd62da7975421d9f1c594c5" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/5/4d/d21e9311c1379bcc2079a24f235194d5" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/5/82/e6e791236e5cada6e2497457d629b825" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/5/97/0afdb5f56d47b14a879f57f5719f6975" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/5/9c/f9ac87caf42660e3333b14ce7be749c5" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/5/a4/03db423ee74ebaea96eb39b96a3c4a45" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/5/a6/8d0123d8aac36a1d0823da8c22b9ea65" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/6/29/449d191419dd7511dd557f3422fe2296" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/6/2f/4287c1d4679b6ba2a8ab5c0fc00ec2f6" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/6/34/1c8904463c026372517a16d3842b1346" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/6/35/6e2b94584eef499ae141a9374a160356" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/6/9e/51b06bdbacb794aee26b629b4097e9e6" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/6/bb/4662ead6f47aff0f9644987c600c0bb6" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/7/20/5c16de6bb6088485c99ce3b37624d207" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/7/96/ba94d827ce7a31bcbcc9231f0c2d6967" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/7/d4/ebfb269c2b4cc3d3d4c89494e2a17d47" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/7/d5/3459d9614907a1857caea6f1afc74d57" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/7/e1/bacab0f79fa53bcee8b8ed37b1ff4e17" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/7/f1/793c1b4dc8291bb0c36bf8a2d1534f17" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/8/1a/f8e5bdb7e0b5da78d8e1aaa8803db1a8" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/8/52/15840bb9f242d58c2f32aae5910de528" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/8/9b/7bece54b7949026863c0dad4faf3e9b8" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/8/a3/aafa4c7e1467aebb6458c13789541a38" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/8/b0/effecbc0c0a56f4f2e63c666fbc47b08" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/8/bb/fb664c69cab97909bcff397209853bb8" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/9/23/0e94add374accf27ed907394d5586239" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/9/3c/2d83b8fab2a01e68d3a8fc43568363c9" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/9/41/db85bb2eff98326f232c02997eada419" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/9/52/5d02df60b121d91de6ec3413efee3529" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/9/70/9423e0f0a3414a14e66d85c96a326709" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/9/a3/537361f0f311e42836eacea77cc9da39" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/9/ea/127e610f63f008b045b9a9dc621c9ea9" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/9/f9/9c512aa904de88890a05280db0758f99" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/a/60/1d89ea2082d6fd61ca7d32bf7ac5560a" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/a/78/75a518920278ee9d21950ae40a53878a" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/a/78/c6f85a43955ac03dc2c9c7721301a78a" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/a/83/4b56331c0e9b28252367b2245e35383a" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/a/a2/26a7c0cfbc45ef01131adf1bfd6a1a2a" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/a/b5/36be281ed09b3579fa85714f7375fb5a" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/a/b7/3f5b889f1f7ddc3f616e31ab7bf20b7a" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/a/bc/6f96b2e6443c9342b9b5195b031d7bca" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/a/f3/fed9e17311521bbcb641cf29cbc12f3a" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/b/0a/b0cef4df19246b86b4277c44e153f0ab" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/b/3f/eb2c0d65983d6cd889dc0e33712703fb" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/b/86/db74187b02838c92e4635755ae19686b" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/b/8f/0e82eca7d5cfce9c94848e0435bcf8fb" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/b/a5/649622fb8d04fbba61d81b4039b65a5b" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/b/b5/5e88357017908a4ab0074336fb309b5b" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/b/bd/fcf80325424654e7fba3396062384bdb" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/b/e7/77fcfbe52e680e05a2032f40329c1e7b" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/b/e9/d11f9aeae8ea80eb6f8ff6ad0272de9b" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/c/db/df3a6f88778e74a86c0bd8db8ca8bdbc" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/c/e3/655589257a25b5eb10a60126d9cf4e3c" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/d/0a/03c92726b5fcc449546730d8d29fc0ad" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/d/8d/21a1b46d369474b477ae564058e308dd" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/d/93/dc3c854ad3478f67bd0792ea1728393d" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/d/b8/cd02ea9c03bf7221307783273bf8cb8d" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/d/c6/7ae30955374521b48b14f6122ed54c6d" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/d/ea/b3177c83687249aefee5f1edcbd9fead" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/e/68/f096aba2c5d7643b6d30ed696e38d68e" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/e/74/9f6afa54c6f760ff70913685e60ec74e" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/e/77/f40144ef356f46c0609abc970c63377e" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/e/d2/13684e19162d285e5782012e124f6d2e" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/e/e8/81200e9e74df3ca888fed4d55c97ce8e" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/e/fd/640cb35db78d41ab08e196610ec3dfde" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/f/18/1520b1cc65736b7337727f3f9d77d18f" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/f/20/237b0bff97860bc05d0fa86672b1420f" failed (2: The system cannot find the file specified)
+2024/02/28 18:47:51 [crit] 32864#4928: DeleteFile() "C:/Users/gimna/Desktop/BMSTU/WEB/bmstu-web/cache/f/55/872ef2f4f5316377202c202e378f155f" failed (2: The system cannot find the file specified)
+2024/02/29 17:53:27 [error] 15788#6448: *7 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: paperkiller, request: "GET /api/v1/swagger HTTP/1.1", upstream: "http://[::1]:5191/api/v1/swagger", host: "localhost:8080"
+2024/02/29 17:53:29 [error] 15788#6448: *7 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: paperkiller, request: "GET /api/v1/swagger HTTP/1.1", upstream: "http://127.0.0.1:5191/api/v1/swagger", host: "localhost:8080"
+2024/02/29 17:53:31 [error] 15788#6448: *7 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: paperkiller, request: "GET /api/v1/swagger HTTP/1.1", upstream: "http://[::1]:5000/api/v1/swagger", host: "localhost:8080"
+2024/02/29 17:53:33 [error] 15788#6448: *7 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: paperkiller, request: "GET /api/v1/swagger HTTP/1.1", upstream: "http://127.0.0.1:5000/api/v1/swagger", host: "localhost:8080"
+2024/02/29 17:53:35 [error] 15788#6448: *7 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: paperkiller, request: "GET /api/v1/swagger HTTP/1.1", upstream: "http://[::1]:5001/api/v1/swagger", host: "localhost:8080"
+2024/02/29 17:53:37 [error] 15788#6448: *7 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: paperkiller, request: "GET /api/v1/swagger HTTP/1.1", upstream: "http://127.0.0.1:5001/api/v1/swagger", host: "localhost:8080"
+2024/02/29 17:53:37 [error] 15788#6448: *7 no live upstreams while connecting to upstream, client: 127.0.0.1, server: paperkiller, request: "GET /api/v1/swagger HTTP/1.1", upstream: "http://backend/api/v1/swagger", host: "localhost:8080"
+2024/02/29 17:54:18 [notice] 27024#17832: signal process started
+2024/02/29 17:57:13 [notice] 27328#10916: signal process started
+2024/02/29 17:57:39 [notice] 2188#11588: signal process started
+2024/02/29 18:02:51 [error] 16932#3164: *6 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: paperkiller, request: "GET /api/v1/report HTTP/1.1", upstream: "http://[::1]:5000/api/v1/report", host: "localhost:8080"
+2024/02/29 18:02:53 [error] 16932#3164: *6 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: paperkiller, request: "GET /api/v1/report HTTP/1.1", upstream: "http://127.0.0.1:5000/api/v1/report", host: "localhost:8080"
+2024/02/29 18:02:55 [error] 16932#3164: *6 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: paperkiller, request: "GET /api/v1/report HTTP/1.1", upstream: "http://[::1]:5001/api/v1/report", host: "localhost:8080"
+2024/02/29 18:02:57 [error] 16932#3164: *6 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: paperkiller, request: "GET /api/v1/report HTTP/1.1", upstream: "http://127.0.0.1:5001/api/v1/report", host: "localhost:8080"
+2024/02/29 18:02:59 [error] 16932#3164: *6 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: paperkiller, request: "GET /api/v1/report HTTP/1.1", upstream: "http://[::1]:5191/api/v1/report", host: "localhost:8080"
+2024/02/29 18:03:01 [error] 16932#3164: *6 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: paperkiller, request: "GET /api/v1/report HTTP/1.1", upstream: "http://127.0.0.1:5191/api/v1/report", host: "localhost:8080"
+2024/02/29 18:03:11 [error] 16932#3164: *6 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: paperkiller, request: "GET /api/v1/report HTTP/1.1", upstream: "http://127.0.0.1:5001/api/v1/report", host: "localhost:8080"
+2024/02/29 19:51:54 [error] 16932#3164: *26 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: paperkiller, request: "GET /mirror1/api/v1/swagger HTTP/1.1", upstream: "http://[::1]:5080/swagger", host: "localhost:8080"
+2024/02/29 19:51:56 [error] 16932#3164: *26 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: paperkiller, request: "GET /mirror1/api/v1/swagger HTTP/1.1", upstream: "http://127.0.0.1:5080/swagger", host: "localhost:8080"

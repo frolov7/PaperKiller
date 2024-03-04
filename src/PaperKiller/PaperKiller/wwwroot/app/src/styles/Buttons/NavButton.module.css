@@ -1,0 +1,42 @@
+.root {
+  position: relative;
+  width: 330px;
+  height: 80px;
+  cursor: pointer;
+  align-items: flex-start;
+}
+
+.rectangle {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  outline: solid 1px #f90;
+  outline-offset: -1px;
+  background-color: #222431;
+}
+
+.unnamed {
+  color: #f90;
+  font-size: 26px;
+  font-family: Ubuntu, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  display: flex;
+  /* Активируем Flexbox */
+  justify-content: center;
+  /* Горизонтальное выравнивание по центру */
+  align-items: center;
+  /* Вертикальное выравнивание по центру */
+  text-align: center;
+  white-space: nowrap;
+}
+
+.root:hover {
+  background-color: #faebc6;
+}

@@ -1,0 +1,343 @@
+.root {
+  position: relative;
+  width: 470px;
+  height: 340px;
+  align-items: flex-start;
+  outline: 0.9954px #fafafa;
+  outline-offset: -1px;
+  background-color: #222431;
+  overflow: hidden;
+}
+
+.frame27 {
+  position: absolute;
+  left: 0.5484%;
+  right: 76.234%;
+  top: 0;
+  bottom: 82.7692%;
+  width: min-content;
+  height: min-content;
+  align-self: flex-start;
+  padding: 10px;
+}
+.unnamed {
+  color: #fafafa;
+  font-size: 24px;
+  line-height: 36px;
+  font-family: Bahnschrift, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame26 {
+  position: absolute;
+  left: 27.9707%;
+  right: 34.0037%;
+  top: 0;
+  bottom: 82.7692%;
+  width: min-content;
+  height: min-content;
+  align-self: flex-start;
+  padding: 10px;
+}
+.unnamed2 {
+  color: #fafafa;
+  font-size: 24px;
+  line-height: 36px;
+  font-family: Bahnschrift, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame28 {
+  position: absolute;
+  left: 70.3729%;
+  right: 14.2596%;
+  top: 0;
+  bottom: 82.7692%;
+  width: min-content;
+  height: min-content;
+  align-self: flex-start;
+  padding: 10px;
+}
+.unnamed3 {
+  color: #fafafa;
+  font-size: 24px;
+  line-height: 36px;
+  font-family: Bahnschrift, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.unnamed4 {
+  color: #fafafa;
+  font-size: 24px;
+  line-height: 36px;
+  font-family: Bahnschrift, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 5.6713%;
+  right: 84.2703%;
+  top: 22.3827%;
+  bottom: 63.4334%;
+  width: 55.0194px;
+  height: 46.0976px;
+  justify-content: center;
+  flex-direction: column;
+}
+.serialNumber {
+  color: #fafafa;
+  font-size: 24px;
+  line-height: 36px;
+  font-family: Bahnschrift, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 29.0716%;
+  right: 42.1072%;
+  top: 22.3827%;
+  bottom: 63.4334%;
+  width: 200.6519px;
+  height: 46.0976px;
+  justify-content: center;
+  flex-direction: column;
+}
+.serialNumber2 {
+  color: #fafafa;
+  font-size: 24px;
+  line-height: 36px;
+  font-family: Bahnschrift, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 29.0716%;
+  right: 42.1072%;
+  top: 41.8461%;
+  bottom: 43.97%;
+  width: 200.6519px;
+  height: 46.0976px;
+  justify-content: center;
+  flex-direction: column;
+}
+.serialNumber3 {
+  color: #fafafa;
+  font-size: 24px;
+  line-height: 36px;
+  font-family: Bahnschrift, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 29.0716%;
+  right: 42.1072%;
+  top: 61.2307%;
+  bottom: 24.5854%;
+  width: 200.6519px;
+  height: 46.0976px;
+  justify-content: center;
+  flex-direction: column;
+}
+.serialNumber4 {
+  color: #fafafa;
+  font-size: 24px;
+  line-height: 36px;
+  font-family: Bahnschrift, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 29.0716%;
+  right: 42.1072%;
+  top: 80.6153%;
+  bottom: 5.2008%;
+  width: 200.6519px;
+  height: 46.0976px;
+  justify-content: center;
+  flex-direction: column;
+}
+.status {
+  color: #fafafa;
+  font-size: 24px;
+  line-height: 36px;
+  font-family: Bahnschrift, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 69.6527%;
+  right: 0;
+  top: 22.4615%;
+  bottom: 63.3846%;
+  width: 166px;
+  height: 46px;
+  justify-content: center;
+  flex-direction: column;
+}
+.status2 {
+  color: #fafafa;
+  font-size: 24px;
+  line-height: 36px;
+  font-family: Bahnschrift, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 69.6527%;
+  right: 0;
+  top: 41.8461%;
+  bottom: 44%;
+  width: 166px;
+  height: 46px;
+  justify-content: center;
+  flex-direction: column;
+}
+.status3 {
+  color: #fafafa;
+  font-size: 24px;
+  line-height: 36px;
+  font-family: Bahnschrift, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 69.6527%;
+  right: 0;
+  top: 61.2307%;
+  bottom: 24.6154%;
+  width: 166px;
+  height: 46px;
+  justify-content: center;
+  flex-direction: column;
+}
+.status4 {
+  color: #fafafa;
+  font-size: 24px;
+  line-height: 36px;
+  font-family: Bahnschrift, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 69.6527%;
+  right: 0;
+  top: 80.6153%;
+  bottom: 5.2308%;
+  width: 166px;
+  height: 46px;
+  justify-content: center;
+  flex-direction: column;
+}
+.unnamed5 {
+  color: #fafafa;
+  font-size: 24px;
+  line-height: 36px;
+  font-family: Bahnschrift, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 5.4884%;
+  right: 84.2597%;
+  top: 41.8461%;
+  bottom: 43.97%;
+  width: 56.0775px;
+  height: 46.0976px;
+  justify-content: center;
+  flex-direction: column;
+}
+.unnamed6 {
+  color: #fafafa;
+  font-size: 24px;
+  line-height: 36px;
+  font-family: Bahnschrift, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 4.0259%;
+  right: 82.8208%;
+  top: 61.2307%;
+  bottom: 24.5854%;
+  width: 71.9485px;
+  height: 46.0976px;
+  justify-content: center;
+  flex-direction: column;
+}
+.unnamed7 {
+  color: #fafafa;
+  font-size: 24px;
+  line-height: 36px;
+  font-family: Bahnschrift, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 4.3915%;
+  right: 83.0355%;
+  top: 80.6153%;
+  bottom: 5.2008%;
+  width: 68.7743px;
+  height: 46.0976px;
+  justify-content: center;
+  flex-direction: column;
+}
+.line3 {
+  transform-origin: bottom left;
+  position: absolute;
+  left: 0;
+  right: 10.047%;
+  top: 15.9727%;
+  bottom: 83.7196%;
+  width: 492.0428px;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  border-bottom: solid 1px #fafafa;
+  margin-bottom: -1px;
+  transform: matrix(1, 0, -0.0044, 1, 0, 0);
+}
+.line4 {
+  transform-origin: bottom left;
+  position: absolute;
+  left: 23.4091%;
+  right: 30.4729%;
+  top: 22.075%;
+  bottom: 77.6173%;
+  width: 252.2653px;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  border-bottom: solid 1px #fafafa;
+  margin-bottom: -1px;
+  transform: matrix(0.0084, 1, -0.9999, 0.0123, 0, 0);
+}
+.line5 {
+  transform-origin: bottom left;
+  position: absolute;
+  left: 64.4164%;
+  right: -10.5344%;
+  top: 22.075%;
+  bottom: 77.6173%;
+  width: 252.2653px;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  border-bottom: solid 1px #fafafa;
+  margin-bottom: -1px;
+  transform: matrix(0.0084, 1, -0.9999, 0.0123, 0, 0);
+}
+
+.tablesContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  /* Изменено на column для вертикального расположения */
+  height: 100vh;
+  /* Установлено для того, чтобы контейнер занимал всю высоту экрана */
+}
+
+.tables {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  gap: 10px;
+  width: 100%;
+  /* Установлено для того, чтобы таблицы занимали всю доступную ширину */
+}
+
+.exitButtonContainer {
+  position: fixed;
+  bottom: 20px;
+  /* Отступ от нижней границы экрана */
+  left: 50%;
+  transform: translateX(-50%);
+  /* Центрирование по горизонтали */
+}

@@ -1,0 +1,60 @@
+.root {
+  position: relative;
+  width: 400px;
+  height: 43px;
+  cursor: pointer;
+  align-items: flex-start;
+}
+
+.rectangle3 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 50%;
+  height: 43px;
+  outline: solid 1px #fafafa;
+  outline-offset: -1px;
+  background-color: #222431;
+  transform: translateY(-50%);
+}
+
+.frame4 {
+  position: absolute;
+  left: 38px;
+  top: calc(50% - 0.5px);
+  width: 324px;
+  height: 58px;
+  display: flex;
+  /* Активируем Flexbox */
+  justify-content: center;
+  /* Горизонтальное выравнивание по центру */
+  align-items: center;
+  /* Вертикальное выравнивание по центру */
+  padding: 10px;
+  transform: translateY(-50%);
+}
+
+.unnamed {
+  color: #fafafa;
+  font-size: 26px;
+  font-family: Bahnschrift, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 100%;
+  /* Растягивание на всю ширину родительского элемента */
+  height: 100%;
+  /* Растягивание на всю высоту родительского элемента */
+  display: flex;
+  /* Использование Flexbox */
+  justify-content: center;
+  /* Центрирование по горизонтали */
+  align-items: center;
+  /* Центрирование по вертикали */
+  text-align: center;
+  /* Центрирование текста */
+  white-space: nowrap;
+  flex-direction: column;
+}
+
+.root:hover {
+  background-color: #faebc6;
+}

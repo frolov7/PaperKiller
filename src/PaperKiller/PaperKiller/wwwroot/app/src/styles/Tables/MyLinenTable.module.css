@@ -1,0 +1,363 @@
+.root {
+  position: relative;
+    width: 470px;
+    height: 340px;
+    align-items: flex-start;
+    outline: 0.9954px #fafafa;
+    outline-offset: -1px;
+    background-color: #222431;
+    overflow: hidden;
+}
+
+.frame24 {
+  position: absolute;
+  left: 1.4146%;
+  right: 73.0964%;
+  top: 0;
+  bottom: 84.4011%;
+  width: min-content;
+  height: min-content;
+  align-self: flex-start;
+  padding: 10px;
+}
+.unnamed {
+  color: #fafafa;
+  font-size: 24px;
+  line-height: 36px;
+  font-family: Bahnschrift, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame23 {
+  position: absolute;
+  left: 30.3333%;
+  right: 31.4721%;
+  top: 0;
+  bottom: 84.4011%;
+  width: min-content;
+  height: min-content;
+  align-self: flex-start;
+  padding: 10px;
+}
+.unnamed2 {
+  color: #fafafa;
+  font-size: 24px;
+  line-height: 36px;
+  font-family: Bahnschrift, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame22 {
+  position: absolute;
+  left: 73.7276%;
+  right: 13.198%;
+  top: 0;
+  bottom: 84.4011%;
+  width: min-content;
+  height: min-content;
+  align-self: flex-start;
+  padding: 10px;
+}
+.unnamed3 {
+  color: #fafafa;
+  font-size: 24px;
+  line-height: 36px;
+  font-family: Bahnschrift, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.unnamed4 {
+  color: #fafafa;
+  font-size: 24px;
+  line-height: 36px;
+  font-family: Bahnschrift, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  right: 78.511%;
+  top: 16.7131%;
+  bottom: 70.4735%;
+  width: 127px;
+  height: 46px;
+  justify-content: center;
+  flex-direction: column;
+}
+.serialNumber {
+  color: #fafafa;
+  font-size: 24px;
+  line-height: 36px;
+  font-family: Bahnschrift, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 40.8866%;
+  right: 36.4379%;
+  top: 16.7131%;
+  bottom: 70.4463%;
+  width: 200.6519px;
+  height: 46.0976px;
+  justify-content: center;
+  flex-direction: column;
+}
+.serialNumber2 {
+  color: #fafafa;
+  font-size: 24px;
+  line-height: 36px;
+  font-family: Bahnschrift, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 40.8866%;
+  right: 36.4379%;
+  top: 34.2619%;
+  bottom: 52.8976%;
+  width: 200.6519px;
+  height: 46.0976px;
+  justify-content: center;
+  flex-direction: column;
+}
+.serialNumber3 {
+  color: #fafafa;
+  font-size: 24px;
+  line-height: 36px;
+  font-family: Bahnschrift, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 40.8866%;
+  right: 36.4379%;
+  top: 51.8106%;
+  bottom: 35.3489%;
+  width: 200.6519px;
+  height: 46.0976px;
+  justify-content: center;
+  flex-direction: column;
+}
+.serialNumber4 {
+  color: #fafafa;
+  font-size: 24px;
+  line-height: 36px;
+  font-family: Bahnschrift, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 40.8866%;
+    right: 36.4379%;
+  top: 69.3593%;
+  bottom: 17.8001%;
+  width: 200.6519px;
+  height: 46.0976px;
+  justify-content: center;
+  flex-direction: column;
+}
+.serialNumber5 {
+  color: #fafafa;
+  font-size: 24px;
+  line-height: 36px;
+  font-family: Bahnschrift, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 40.8866%;
+    right: 36.4379%;
+  top: 86.9081%;
+  bottom: 0.2514%;
+  width: 200.6519px;
+  height: 46.0976px;
+  justify-content: center;
+  flex-direction: column;
+}
+.status {
+  color: #fafafa;
+  font-size: 24px;
+  line-height: 36px;
+  font-family: Bahnschrift, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 71.912%;
+  right: 0;
+  top: 16.7131%;
+  bottom: 70.4735%;
+  width: 166px;
+  height: 46px;
+  justify-content: center;
+  flex-direction: column;
+}
+.status2 {
+  color: #fafafa;
+  font-size: 24px;
+  line-height: 36px;
+  font-family: Bahnschrift, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 71.912%;
+  right: 0;
+  top: 34.5404%;
+  bottom: 52.6462%;
+  width: 166px;
+  height: 46px;
+  justify-content: center;
+  flex-direction: column;
+}
+.status3 {
+  color: #fafafa;
+  font-size: 24px;
+  line-height: 36px;
+  font-family: Bahnschrift, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 71.912%;
+  right: 0%;
+  top: 52.0891%;
+  bottom: 35.0975%;
+  width: 166px;
+  height: 46px;
+  justify-content: center;
+  flex-direction: column;
+}
+.status4 {
+  color: #fafafa;
+  font-size: 24px;
+  line-height: 36px;
+  font-family: Bahnschrift, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 71.912%;
+  right: 0;
+  top: 69.6379%;
+  bottom: 17.5487%;
+  width: 166px;
+  height: 46px;
+  justify-content: center;
+  flex-direction: column;
+}
+.status5 {
+  color: #fafafa;
+  font-size: 24px;
+  line-height: 36px;
+  font-family: Bahnschrift, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 71.912%;
+  right: 0;
+  top: 87.1866%;
+  bottom: 0;
+  width: 166px;
+  height: 46px;
+  justify-content: center;
+  flex-direction: column;
+}
+.unnamed5 {
+  color: #fafafa;
+  font-size: 24px;
+  line-height: 36px;
+  font-family: Bahnschrift, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  right: 79.0186%;
+  top: 34.2618%;
+  bottom: 52.6462%;
+  width: 124px;
+  height: 47px;
+  justify-content: center;
+  flex-direction: column;
+}
+.unnamed6 {
+  color: #fafafa;
+  font-size: 24px;
+  line-height: 36px;
+  font-family: Bahnschrift, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  right: 71.7428%;
+  top: 52.0891%;
+  bottom: 35.0975%;
+  width: 167px;
+  height: 46px;
+  justify-content: center;
+  flex-direction: column;
+}
+.unnamed7 {
+  color: #fafafa;
+  font-size: 24px;
+  line-height: 36px;
+  font-family: Bahnschrift, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  right: 72.4196%;
+  top: 69.6379%;
+  bottom: 17.5487%;
+  width: 163px;
+  height: 46px;
+  justify-content: center;
+  flex-direction: column;
+}
+.unnamed8 {
+  color: #fafafa;
+  font-size: 24px;
+  line-height: 36px;
+  font-family: Bahnschrift, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  right: 72.4196%;
+  top: 87.1866%;
+  bottom: 0;
+  width: 163px;
+  height: 46px;
+  justify-content: center;
+  flex-direction: column;
+}
+.line3 {
+  transform-origin: bottom left;
+  position: absolute;
+  left: 1.8613%;
+  right: 13.5364%;
+  top: 13.9276%;
+  bottom: 85.7939%;
+  width: 500px;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  border-bottom: solid 1px #fafafa;
+  margin-bottom: -1px;
+  transform: matrix(1, 0, -0.0044, 1, 0, 0);
+}
+.line4 {
+  transform-origin: bottom left;
+  position: absolute;
+  left: 35.1906%;
+  right: 22.4168%;
+  top: 19.9828%;
+  bottom: 79.7387%;
+  width: 286px;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  border-bottom: solid 1px #fafafa;
+  margin-bottom: -1px;
+  transform: matrix(0, 1, -1, 0, 0, 0);
+}
+.line5 {
+  transform-origin: bottom left;
+  position: absolute;
+  left: 67.2873%;
+  right: -15.6799%;
+  top: 19.9826%;
+  bottom: 79.7389%;
+  width: 286px;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  border-bottom: solid 1px #fafafa;
+  margin-bottom: -1px;
+  transform: matrix(0, 1, -1, 0, 0, 0);
+}
+

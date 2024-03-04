@@ -1,0 +1,244 @@
+.root {
+  position: relative;
+  width: 470px;
+  height: 340px;
+  align-items: flex-start;
+  outline: solid 0.9954px #fafafa;
+  outline-offset: -1px;
+  background-color: #222431;
+  overflow: hidden;
+}
+.frameLogin {
+  position: absolute;
+  left: 9.9076px;
+  top: 22.8476px;
+  width: min-content;
+  height: min-content;
+  padding: 10px;
+}
+.unnamed {
+  color: #fafafa;
+  font-size: 27.8707px;
+  line-height: 35.8337px;
+  font-family: Arial Rounded MT Bold, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frameName {
+  position: absolute;
+  left: 9.9076px;
+  top: 22px;
+  width: min-content;
+  height: min-content;
+  padding: 10px;
+}
+.unnamed2 {
+  color: #fafafa;
+  font-size: 27.8707px;
+  line-height: 35.8337px;
+  font-family: Arial Rounded MT Bold, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frameSurname {
+  position: absolute;
+  left: 9.9076px;
+  top: 79px;
+  width: min-content;
+  height: min-content;
+  padding: 10px;
+}
+.unnamed3 {
+  color: #fafafa;
+  font-size: 27.8707px;
+  line-height: 35.8337px;
+  font-family: Arial Rounded MT Bold, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.framePhone {
+  position: absolute;
+  left: 9.9076px;
+  top: 136px;
+  width: min-content;
+  height: min-content;
+  padding: 10px;
+}
+.unnamed4 {
+  color: #fafafa;
+  font-size: 27.8707px;
+  line-height: 35.8337px;
+  font-family: Arial Rounded MT Bold, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frameStudak {
+  position: absolute;
+  left: 9.9076px;
+  top: 193px;
+  width: min-content;
+  height: min-content;
+  padding: 10px;
+}
+.unnamed5 {
+  color: #fafafa;
+  font-size: 27.8707px;
+  line-height: 35.8337px;
+  font-family: Arial Rounded MT Bold, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frameRoom {
+  position: absolute;
+  left: 9.9076px;
+  top: 249px;
+  width: min-content;
+  height: min-content;
+  padding: 10px;
+}
+.unnamed6 {
+  color: #fafafa;
+  font-size: 27.8707px;
+  line-height: 35.8337px;
+  font-family: Arial Rounded MT Bold, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frameRoomEx {
+  position: absolute;
+  left: 260.7437px;
+  top: 249px;
+  width: min-content;
+  height: min-content;
+  padding: 10px;
+}
+.rNumber {
+  color: #fafafa;
+  font-size: 27.8707px;
+  line-height: 35.8337px;
+  font-family: Arial Rounded MT Bold, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-shadow: 0px 3.9815242290496826px 3.9815242290496826px #00000040;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frameStudakEx {
+  position: absolute;
+  left: 260.7437px;
+  top: 193px;
+  width: min-content;
+  height: min-content;
+  padding: 10px;
+}
+.studentID {
+  color: #fafafa;
+  font-size: 27.8707px;
+  line-height: 35.8337px;
+  font-family: Arial Rounded MT Bold, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-shadow: 0px 3.9815242290496826px 3.9815242290496826px #00000040;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.framePhoneEx {
+  position: absolute;
+  left: 260.7437px;
+  top: 136px;
+  width: min-content;
+  height: min-content;
+  padding: 10px;
+}
+.pNumber {
+  color: #fafafa;
+  font-size: 27.8707px;
+  line-height: 35.8337px;
+  font-family: Arial Rounded MT Bold, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-shadow: 0px 3.9815242290496826px 3.9815242290496826px #00000040;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frameSurnameEx {
+  position: absolute;
+  left: 260.7437px;
+  top: 79px;
+  width: min-content;
+  height: min-content;
+  padding: 10px;
+}
+.surname {
+  color: #fafafa;
+  font-size: 27.8707px;
+  line-height: 35.8337px;
+  font-family: Arial Rounded MT Bold, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-shadow: 0px 3.9815242290496826px 3.9815242290496826px #00000040;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frameNameEx {
+  position: absolute;
+  left: 260.7437px;
+  top: 22px;
+  width: min-content;
+  height: min-content;
+  padding: 10px;
+}
+.name {
+  color: #fafafa;
+  font-size: 27.8707px;
+  line-height: 35.8337px;
+  font-family: Arial Rounded MT Bold, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-shadow: 0px 3.9815242290496826px 3.9815242290496826px #00000040;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frameLoginEx {
+  position: absolute;
+  left: 260.7437px;
+  top: 22.8476px;
+  width: min-content;
+  height: min-content;
+  padding: 10px;
+}
+.login {
+  color: #fafafa;
+  font-size: 27.8707px;
+  line-height: 35.8337px;
+  font-family: Arial Rounded MT Bold, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-shadow: 0px 3.9815242290496826px 3.9815242290496826px #00000040;
+  white-space: nowrap;
+  flex-direction: column;
+}

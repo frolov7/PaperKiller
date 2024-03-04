@@ -1,0 +1,34 @@
+/* Стили для основного контейнера */
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 90vh;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+/* Стили для контейнера заголовка страницы */
+.titlepage {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 4.25%;
+  font-size: 2rem;
+}
+
+/* Стили для формы и полей ввода */
+.form,
+.inputField {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 1.25rem;
+}
+
+.inputAndButtonsContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.25rem;
+}

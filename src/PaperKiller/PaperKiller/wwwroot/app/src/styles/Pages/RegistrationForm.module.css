@@ -1,0 +1,56 @@
+/* RegistrationForm.module.css */
+
+.main {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+  margin-top: 70px;
+}
+
+body,
+html {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.inputAndButtonsContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  gap: 60px;
+  margin: auto;
+}
+
+.inputField {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 20px;
+  width: 45%;
+}
+
+.title {
+  position: absolute;
+    top: 0;
+    left: 0;
+      margin-left: 70px;
+}
+
+.titlepage {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.exit {
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+}

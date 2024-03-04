@@ -1,0 +1,609 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PaperKiller.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PaperKiller.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\.babelrc",
+      "PackagePath": "staticwebassets\\app\\.babelrc"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\.eslintrc.json",
+      "PackagePath": "staticwebassets\\app\\.eslintrc.json"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\.gitignore",
+      "PackagePath": "staticwebassets\\app\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\README.md",
+      "PackagePath": "staticwebassets\\app\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\package-lock.json",
+      "PackagePath": "staticwebassets\\app\\package-lock.json"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\package.json",
+      "PackagePath": "staticwebassets\\app\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\public\\assets\\change.png",
+      "PackagePath": "staticwebassets\\app\\public\\assets\\change.png"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\public\\assets\\date_icon.png",
+      "PackagePath": "staticwebassets\\app\\public\\assets\\date_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\public\\assets\\girl_icon.png",
+      "PackagePath": "staticwebassets\\app\\public\\assets\\girl_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\public\\assets\\girl_icon2.png",
+      "PackagePath": "staticwebassets\\app\\public\\assets\\girl_icon2.png"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\public\\assets\\login_icon.png",
+      "PackagePath": "staticwebassets\\app\\public\\assets\\login_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\public\\assets\\login_icon2.png",
+      "PackagePath": "staticwebassets\\app\\public\\assets\\login_icon2.png"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\public\\assets\\male_icon2222.png",
+      "PackagePath": "staticwebassets\\app\\public\\assets\\male_icon2222.png"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\public\\assets\\man_icon.png",
+      "PackagePath": "staticwebassets\\app\\public\\assets\\man_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\public\\assets\\man_icon2.png",
+      "PackagePath": "staticwebassets\\app\\public\\assets\\man_icon2.png"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\public\\assets\\message_icon.png",
+      "PackagePath": "staticwebassets\\app\\public\\assets\\message_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\public\\assets\\message_icon2.png",
+      "PackagePath": "staticwebassets\\app\\public\\assets\\message_icon2.png"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\public\\assets\\numbers.png",
+      "PackagePath": "staticwebassets\\app\\public\\assets\\numbers.png"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\public\\assets\\phone_icon.png",
+      "PackagePath": "staticwebassets\\app\\public\\assets\\phone_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\public\\assets\\secure_icon.png",
+      "PackagePath": "staticwebassets\\app\\public\\assets\\secure_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\public\\assets\\secure_icon2.png",
+      "PackagePath": "staticwebassets\\app\\public\\assets\\secure_icon2.png"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\public\\assets\\sign_icon.png",
+      "PackagePath": "staticwebassets\\app\\public\\assets\\sign_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\public\\assets\\studak1.png",
+      "PackagePath": "staticwebassets\\app\\public\\assets\\studak1.png"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\public\\assets\\studak2.png",
+      "PackagePath": "staticwebassets\\app\\public\\assets\\studak2.png"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\public\\assets\\user_icon.png",
+      "PackagePath": "staticwebassets\\app\\public\\assets\\user_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\public\\assets\\user_icon2.png",
+      "PackagePath": "staticwebassets\\app\\public\\assets\\user_icon2.png"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\public\\assets\\user_icon_female.png",
+      "PackagePath": "staticwebassets\\app\\public\\assets\\user_icon_female.png"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\public\\assets\\user_icon_female2.png",
+      "PackagePath": "staticwebassets\\app\\public\\assets\\user_icon_female2.png"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\public\\change.png",
+      "PackagePath": "staticwebassets\\app\\public\\change.png"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\public\\favicon.ico",
+      "PackagePath": "staticwebassets\\app\\public\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\public\\index.html",
+      "PackagePath": "staticwebassets\\app\\public\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\public\\logo192.png",
+      "PackagePath": "staticwebassets\\app\\public\\logo192.png"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\public\\logo512.png",
+      "PackagePath": "staticwebassets\\app\\public\\logo512.png"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\public\\manifest.json",
+      "PackagePath": "staticwebassets\\app\\public\\manifest.json"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\public\\robots.txt",
+      "PackagePath": "staticwebassets\\app\\public\\robots.txt"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\src\\App.css",
+      "PackagePath": "staticwebassets\\app\\src\\App.css"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\src\\assets\\change.png",
+      "PackagePath": "staticwebassets\\app\\src\\assets\\change.png"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\src\\assets\\date_icon.png",
+      "PackagePath": "staticwebassets\\app\\src\\assets\\date_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\src\\assets\\girl_icon.png",
+      "PackagePath": "staticwebassets\\app\\src\\assets\\girl_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\src\\assets\\girl_icon2.png",
+      "PackagePath": "staticwebassets\\app\\src\\assets\\girl_icon2.png"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\src\\assets\\login_icon.png",
+      "PackagePath": "staticwebassets\\app\\src\\assets\\login_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\src\\assets\\login_icon2.png",
+      "PackagePath": "staticwebassets\\app\\src\\assets\\login_icon2.png"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\src\\assets\\male_icon2222.png",
+      "PackagePath": "staticwebassets\\app\\src\\assets\\male_icon2222.png"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\src\\assets\\man_icon.png",
+      "PackagePath": "staticwebassets\\app\\src\\assets\\man_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\src\\assets\\man_icon2.png",
+      "PackagePath": "staticwebassets\\app\\src\\assets\\man_icon2.png"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\src\\assets\\message_icon.png",
+      "PackagePath": "staticwebassets\\app\\src\\assets\\message_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\src\\assets\\message_icon2.png",
+      "PackagePath": "staticwebassets\\app\\src\\assets\\message_icon2.png"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\src\\assets\\numbers.png",
+      "PackagePath": "staticwebassets\\app\\src\\assets\\numbers.png"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\src\\assets\\pass.png",
+      "PackagePath": "staticwebassets\\app\\src\\assets\\pass.png"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\src\\assets\\phone_icon.png",
+      "PackagePath": "staticwebassets\\app\\src\\assets\\phone_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\src\\assets\\secure_icon.png",
+      "PackagePath": "staticwebassets\\app\\src\\assets\\secure_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\src\\assets\\secure_icon2.png",
+      "PackagePath": "staticwebassets\\app\\src\\assets\\secure_icon2.png"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\src\\assets\\sign_icon.png",
+      "PackagePath": "staticwebassets\\app\\src\\assets\\sign_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\src\\assets\\studak1.png",
+      "PackagePath": "staticwebassets\\app\\src\\assets\\studak1.png"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\src\\assets\\studak2.png",
+      "PackagePath": "staticwebassets\\app\\src\\assets\\studak2.png"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\src\\assets\\user_icon.png",
+      "PackagePath": "staticwebassets\\app\\src\\assets\\user_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\src\\assets\\user_icon2.png",
+      "PackagePath": "staticwebassets\\app\\src\\assets\\user_icon2.png"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\src\\assets\\user_icon_female.png",
+      "PackagePath": "staticwebassets\\app\\src\\assets\\user_icon_female.png"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\src\\assets\\user_icon_female2.png",
+      "PackagePath": "staticwebassets\\app\\src\\assets\\user_icon_female2.png"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\src\\index.css",
+      "PackagePath": "staticwebassets\\app\\src\\index.css"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\src\\logo.svg",
+      "PackagePath": "staticwebassets\\app\\src\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\src\\pages\\ChangeData.tsx",
+      "PackagePath": "staticwebassets\\app\\src\\pages\\ChangeData.tsx"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\src\\setupProxy.js",
+      "PackagePath": "staticwebassets\\app\\src\\setupProxy.js"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\src\\styles\\Background.module.css",
+      "PackagePath": "staticwebassets\\app\\src\\styles\\Background.module.css"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\src\\styles\\Buttons\\BackToMenuButton.module.css",
+      "PackagePath": "staticwebassets\\app\\src\\styles\\Buttons\\BackToMenuButton.module.css"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\src\\styles\\Buttons\\FieldForm.module.css",
+      "PackagePath": "staticwebassets\\app\\src\\styles\\Buttons\\FieldForm.module.css"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\src\\styles\\Buttons\\Icon.module.css",
+      "PackagePath": "staticwebassets\\app\\src\\styles\\Buttons\\Icon.module.css"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\src\\styles\\Buttons\\NavButton.module.css",
+      "PackagePath": "staticwebassets\\app\\src\\styles\\Buttons\\NavButton.module.css"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\src\\styles\\Buttons\\RegistrationButton.module.css",
+      "PackagePath": "staticwebassets\\app\\src\\styles\\Buttons\\RegistrationButton.module.css"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\src\\styles\\Buttons\\SignInButton.module.css",
+      "PackagePath": "staticwebassets\\app\\src\\styles\\Buttons\\SignInButton.module.css"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\src\\styles\\Buttons\\UtilButton.module.css",
+      "PackagePath": "staticwebassets\\app\\src\\styles\\Buttons\\UtilButton.module.css"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\src\\styles\\Pages\\AuthorizationForm.module.css",
+      "PackagePath": "staticwebassets\\app\\src\\styles\\Pages\\AuthorizationForm.module.css"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\src\\styles\\Pages\\ChangeDataForm.module.css",
+      "PackagePath": "staticwebassets\\app\\src\\styles\\Pages\\ChangeDataForm.module.css"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\src\\styles\\Pages\\ChangeItemsForm.module.css",
+      "PackagePath": "staticwebassets\\app\\src\\styles\\Pages\\ChangeItemsForm.module.css"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\src\\styles\\Pages\\ChangeLinenForm.module.css",
+      "PackagePath": "staticwebassets\\app\\src\\styles\\Pages\\ChangeLinenForm.module.css"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\src\\styles\\Pages\\MyItemsForm.module.css",
+      "PackagePath": "staticwebassets\\app\\src\\styles\\Pages\\MyItemsForm.module.css"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\src\\styles\\Pages\\RegistrationForm.module.css",
+      "PackagePath": "staticwebassets\\app\\src\\styles\\Pages\\RegistrationForm.module.css"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\src\\styles\\Pages\\UserMenuForm.module.css",
+      "PackagePath": "staticwebassets\\app\\src\\styles\\Pages\\UserMenuForm.module.css"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\src\\styles\\Tables\\MyItemsTable.module.css",
+      "PackagePath": "staticwebassets\\app\\src\\styles\\Tables\\MyItemsTable.module.css"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\src\\styles\\Tables\\MyLinenTable.module.css",
+      "PackagePath": "staticwebassets\\app\\src\\styles\\Tables\\MyLinenTable.module.css"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\src\\styles\\Tables\\StudentDataTable.module.css",
+      "PackagePath": "staticwebassets\\app\\src\\styles\\Tables\\StudentDataTable.module.css"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\src\\styles\\Titles\\TitleAppMain.module.css",
+      "PackagePath": "staticwebassets\\app\\src\\styles\\Titles\\TitleAppMain.module.css"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\src\\styles\\Titles\\TitleAppSecondary.module.css",
+      "PackagePath": "staticwebassets\\app\\src\\styles\\Titles\\TitleAppSecondary.module.css"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\src\\styles\\Titles\\TitleForm.module.css",
+      "PackagePath": "staticwebassets\\app\\src\\styles\\Titles\\TitleForm.module.css"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\src\\styles\\_resets.module.css",
+      "PackagePath": "staticwebassets\\app\\src\\styles\\_resets.module.css"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\app\\tsconfig.json",
+      "PackagePath": "staticwebassets\\app\\tsconfig.json"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gimna\\Desktop\\BMSTU\\WEB\\bmstu-web\\src\\PaperKiller\\PaperKiller\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.PaperKiller.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.PaperKiller.props",
+      "PackagePath": "build\\PaperKiller.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.PaperKiller.props",
+      "PackagePath": "buildMultiTargeting\\PaperKiller.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.PaperKiller.props",
+      "PackagePath": "buildTransitive\\PaperKiller.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

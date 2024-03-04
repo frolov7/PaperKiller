@@ -1,0 +1,55 @@
+.root {
+  position: relative;
+  width: 480px;
+  height: 200px;
+  align-items: center;
+  /* Изменено с flex-start на center для центрирования содержимого по вертикали */
+  display: flex;
+  /* Добавлено для использования Flexbox */
+  justify-content: center;
+  /* Добавлено для центрирования содержимого по горизонтали */
+}
+
+.rectangle {
+  transform-origin: top left;
+  position: absolute;
+  left: 0.0256%;
+  right: 0.3794%;
+  top: calc(50% - 0.0657px);
+  height: 100px;
+  background-color: #f90;
+  transform: matrix(1, 0, -0.0004, 1, 0, 0) translateY(-50%);
+}
+
+.frame7 {
+  position: absolute;
+  left: 0;
+  /* Изменено с -2px на  0 для выравнивания по левому краю */
+  top: calc(50% - -0.2983px);
+  width: 100%;
+  /* Изменено с min-content на  100% для занятия всей ширины */
+  height: min-content;
+  flex-direction: column;
+  padding: 10px;
+  transform: translateY(-50%);
+  display: flex;
+  /* Добавлено для использования Flexbox */
+  justify-content: center;
+  /* Добавлено для центрирования содержимого по горизонтали */
+  align-items: center;
+  /* Добавлено для центрирования содержимого по вертикали */
+}
+
+.titleText {
+  color: #222431;
+  font-size: 64px;
+  line-height: 36px;
+  font-family: Showcard Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 100%;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  text-align: center;
+  transform: matrix(1, 0.0017, -0.0021, 1, 0, 0);
+}

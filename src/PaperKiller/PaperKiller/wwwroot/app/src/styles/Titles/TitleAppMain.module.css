@@ -1,0 +1,33 @@
+.root {
+  width: 100%;
+  margin: auto;
+  height: center;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  padding: 23px 0;
+}
+.rectangle1 {
+  width: 650px;
+  height: 150px;
+  background-color: #f90;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.frame8 {
+  width: center;
+  height: center;
+  padding: 10px;
+}
+.pAPERKILLER {
+  color: #222431;
+  font-size: 96px;
+  line-height: 36px;
+  font-family: Showcard Gothic, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: center;
+  height: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
