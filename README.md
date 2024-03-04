@@ -1,4 +1,4 @@
-﻿# BMSTU-WEB
+# BMSTU-WEB
 
 # Проект "Система выдачи бытовых вещей студентам в общежитии"
 
@@ -22,11 +22,11 @@
 
 ## Use-case диаграмма системы
 
-![UseCase](docs/img/UseCase.jpg)
+![UseCase](img/UseCase.jpg)
 
 ## BPMN диаграмма основных бизнес-процессов
 
-![BPMN](docs/img/bpmn.jpg)
+![BPMN](img/bpmn.jpg)
 
 ## Примеры описания основных пользовательских сценариев
 
@@ -66,19 +66,19 @@
 
 ## ER-диаграмма сущностей
 
-![ER-диаграмма](docs/img/ER.jpg)
+![ER-диаграмма](img/ER.jpg)
 
 ## Диаграмма БД
 
-![Диаграмма БД](docs/img/database_entities.jpg)
+![Диаграмма БД](img/database_entities.jpg)
 
 ## Компонентная диаграмма системы
 
-![Компонентная диаграмма системы](docs/img/prototype.jpg)
+![Компонентная диаграмма системы](img/prototype.jpg)
 
 ## Экраны будущего web-приложения
 
-![Экраны](docs/img/views.jpg)
+![Экраны](img/views.jpg)
 
 # Запуск и остановка Nginx
 
